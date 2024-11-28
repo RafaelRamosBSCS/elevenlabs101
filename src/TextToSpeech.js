@@ -32,7 +32,7 @@ const TextToSpeech = () => {
         },
         {
           headers: {
-            'xi-api-key': 'sk_9ce6f621e5e2f4b29e1df4edc355200de0ece3e5e3e2a35c', // API Key here
+            'xi-api-key': 'YOUR_API_KEY', // API Key here
             'Content-Type': 'application/json',
             'Accept': 'audio/mpeg'
           },
